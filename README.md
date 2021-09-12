@@ -1,6 +1,6 @@
 # ElectionsProject
 
-Purpose: present in a phased manner the work process in a complete statistical analysis of real data.
+Purpose: to present in a phased manner the work process in a complete statistical analysis of real data.
 
 We started by presenting simple and complex descriptive statistics and then combined additional data and different models to answer different research questions:
 1. How the turnout affects the election results.
